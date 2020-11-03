@@ -24,3 +24,14 @@ const seven = 'violet';
 
 console.log(phrase + ', ' + one + ', ' + two + ', ' + three + ', '+ four + ', '+ five + ', ' + six + ', ' + seven + ' ' + endingPhrase);
 
+
+myAlphabetLength = myAlpha => {
+    myAlpha  = ['A','B','C','D','E','F','G'];
+    console.log(myAlpha);
+
+}
+
+myAlphabetLength();
+
+
+
