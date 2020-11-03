@@ -22,4 +22,5 @@ const five = 'blue';
 const six = 'indigo';
 const seven = 'violet';
 
+console.log(phrase + ', ' + one + ', ' + two + ', ' + three + ', '+ four + ', '+ five + ', ' + six + ', ' + seven + ' ' + endingPhrase);
 
